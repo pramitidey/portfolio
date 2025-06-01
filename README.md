@@ -14,7 +14,7 @@ This is my **web-based personal portfolio** project built using **HTML**, **CSS*
 
 ## 🔗 Live Demo
 
-👉 [View Live Site](https://your-username.github.io/your-portfolio-repo/)
+👉 [View Live Site][https://pramitidey.github.io/portfolio/]
 
 
 
